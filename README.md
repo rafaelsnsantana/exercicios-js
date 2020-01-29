@@ -1,2 +1,2 @@
 # exercicios-js
-Resolução de Exercícios de JavaScript - Lista 3
+Resolução de Exercícios de JavaScript - Lista 2
